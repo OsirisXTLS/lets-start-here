@@ -1,0 +1,1 @@
+[![Create, Change, and Orchestrate AWS Infrastructure with Terraform](https://i.ytimg.com/vi/TFLQcgZr0no/hqdefault.jpg)](https://www.youtube.com/embed/TFLQcgZr0no?autoplay=1 "Create, Change, and Orchestrate AWS Infrastructure with Terraform")
